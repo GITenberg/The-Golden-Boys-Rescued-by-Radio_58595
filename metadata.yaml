@@ -1,5 +1,8 @@
 _repo: The-Golden-Boys-Rescued-by-Radio_58595
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58595-h/images/cover.jpg
 creator:
   author:
     agent_name: Wyman, L. P. (Levi Parker)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '42061'
     url: http://www.gutenberg.org/2009/agents/42061
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58595#The-Golden-Boys-Rescued-by-Radio
 gutenberg_issued: '2019-01-01'
 gutenberg_type: Text
 identifiers:
